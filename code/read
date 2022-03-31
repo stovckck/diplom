@@ -1,3 +1,4 @@
 парсинг_101_102 - спарсит все архивы с ЦБ
 открытие и обработка - делает дата фрэймы и потом преобразует в .h5 (как csv только весит меньше)
 ссылка на диск с данными - https://drive.google.com/drive/folders/1dJ20NIRLvdvswEOpu129GJhfzQbLD-Ip?hl=ru Сейчас там архив с 101 и 102
+https://www.cbr.ru/banking_sector/otchetnost-kreditnykh-organizaciy/ - описание столбцов тут есть
